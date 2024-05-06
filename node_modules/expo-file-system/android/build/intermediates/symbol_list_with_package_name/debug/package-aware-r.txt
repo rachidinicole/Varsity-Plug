@@ -1,0 +1,2 @@
+expo.modules.filesystem
+xml file_system_provider_paths

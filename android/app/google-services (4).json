@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "769621566219",
+    "project_id": "varsity-plug",
+    "storage_bucket": "varsity-plug.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769621566219:android:693b033e492c094efe380e",
+        "android_client_info": {
+          "package_name": "com.varsityplug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAgU7kgW_PrljlQJIai7a50lVDYTW7kr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769621566219:android:76ad5eb983a1a297fe380e",
+        "android_client_info": {
+          "package_name": "io.invertase.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAgU7kgW_PrljlQJIai7a50lVDYTW7kr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

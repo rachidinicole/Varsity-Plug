@@ -1,0 +1,10 @@
+{
+  "scheme": "com.varsityplug",
+  "hostType": "lan",
+  "lanType": "ip",
+  "devClient": true,
+  "dev": true,
+  "minify": false,
+  "urlRandomness": "2Qa2gEQ",
+  "https": false
+}
